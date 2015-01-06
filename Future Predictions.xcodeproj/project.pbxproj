@@ -14,6 +14,16 @@
 		2A8BC5311A56FD0C000823F5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5301A56FD0C000823F5 /* Images.xcassets */; };
 		2A8BC5341A56FD0C000823F5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5321A56FD0C000823F5 /* LaunchScreen.xib */; };
 		2A8BC5401A56FD0C000823F5 /* Future_PredictionsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A8BC53F1A56FD0C000823F5 /* Future_PredictionsTests.m */; };
+		2A8BC5531A57098E000823F5 /* House0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5491A57098E000823F5 /* House0.jpg */; };
+		2A8BC5541A57098E000823F5 /* House1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54A1A57098E000823F5 /* House1.jpg */; };
+		2A8BC5551A57098E000823F5 /* House2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54B1A57098E000823F5 /* House2.jpg */; };
+		2A8BC5561A57098E000823F5 /* House3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54C1A57098E000823F5 /* House3.jpg */; };
+		2A8BC5571A57098E000823F5 /* House4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54D1A57098E000823F5 /* House4.jpg */; };
+		2A8BC5581A57098E000823F5 /* House5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54E1A57098E000823F5 /* House5.jpg */; };
+		2A8BC5591A57098E000823F5 /* House6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC54F1A57098E000823F5 /* House6.jpg */; };
+		2A8BC55A1A57098E000823F5 /* House7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5501A57098E000823F5 /* House7.jpg */; };
+		2A8BC55B1A57098E000823F5 /* House8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5511A57098E000823F5 /* House8.jpg */; };
+		2A8BC55C1A57098E000823F5 /* House9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A8BC5521A57098E000823F5 /* House9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,16 @@
 		2A8BC5391A56FD0C000823F5 /* Future PredictionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Future PredictionsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A8BC53E1A56FD0C000823F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A8BC53F1A56FD0C000823F5 /* Future_PredictionsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Future_PredictionsTests.m; sourceTree = "<group>"; };
+		2A8BC5491A57098E000823F5 /* House0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House0.jpg; sourceTree = "<group>"; };
+		2A8BC54A1A57098E000823F5 /* House1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House1.jpg; sourceTree = "<group>"; };
+		2A8BC54B1A57098E000823F5 /* House2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House2.jpg; sourceTree = "<group>"; };
+		2A8BC54C1A57098E000823F5 /* House3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House3.jpg; sourceTree = "<group>"; };
+		2A8BC54D1A57098E000823F5 /* House4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House4.jpg; sourceTree = "<group>"; };
+		2A8BC54E1A57098E000823F5 /* House5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House5.jpg; sourceTree = "<group>"; };
+		2A8BC54F1A57098E000823F5 /* House6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House6.jpg; sourceTree = "<group>"; };
+		2A8BC5501A57098E000823F5 /* House7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House7.jpg; sourceTree = "<group>"; };
+		2A8BC5511A57098E000823F5 /* House8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House8.jpg; sourceTree = "<group>"; };
+		2A8BC5521A57098E000823F5 /* House9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = House9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +116,16 @@
 		2A8BC5231A56FD0C000823F5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2A8BC5491A57098E000823F5 /* House0.jpg */,
+				2A8BC54A1A57098E000823F5 /* House1.jpg */,
+				2A8BC54B1A57098E000823F5 /* House2.jpg */,
+				2A8BC54C1A57098E000823F5 /* House3.jpg */,
+				2A8BC54D1A57098E000823F5 /* House4.jpg */,
+				2A8BC54E1A57098E000823F5 /* House5.jpg */,
+				2A8BC54F1A57098E000823F5 /* House6.jpg */,
+				2A8BC5501A57098E000823F5 /* House7.jpg */,
+				2A8BC5511A57098E000823F5 /* House8.jpg */,
+				2A8BC5521A57098E000823F5 /* House9.jpg */,
 				2A8BC5241A56FD0C000823F5 /* Info.plist */,
 				2A8BC5251A56FD0C000823F5 /* main.m */,
 			);
@@ -199,7 +229,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A8BC5581A57098E000823F5 /* House5.jpg in Resources */,
+				2A8BC55C1A57098E000823F5 /* House9.jpg in Resources */,
+				2A8BC5591A57098E000823F5 /* House6.jpg in Resources */,
 				2A8BC52F1A56FD0C000823F5 /* Main.storyboard in Resources */,
+				2A8BC5571A57098E000823F5 /* House4.jpg in Resources */,
+				2A8BC5561A57098E000823F5 /* House3.jpg in Resources */,
+				2A8BC5541A57098E000823F5 /* House1.jpg in Resources */,
+				2A8BC5531A57098E000823F5 /* House0.jpg in Resources */,
+				2A8BC55A1A57098E000823F5 /* House7.jpg in Resources */,
+				2A8BC5551A57098E000823F5 /* House2.jpg in Resources */,
+				2A8BC55B1A57098E000823F5 /* House8.jpg in Resources */,
 				2A8BC5341A56FD0C000823F5 /* LaunchScreen.xib in Resources */,
 				2A8BC5311A56FD0C000823F5 /* Images.xcassets in Resources */,
 			);
@@ -280,7 +320,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -321,7 +361,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -335,7 +375,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				VALIDATE_PRODUCT = YES;
+				VALIDATE_PRODUCT = NO;
 			};
 			name = Release;
 		};
@@ -412,6 +452,7 @@
 				2A8BC5451A56FD0C000823F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A8BC5461A56FD0C000823F5 /* Build configuration list for PBXNativeTarget "Future PredictionsTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +461,7 @@
 				2A8BC5481A56FD0C000823F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

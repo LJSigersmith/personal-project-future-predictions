@@ -7,9 +7,20 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
+int HouseNumber;
+int PayNumber;
+int KidsNumber;
+@interface ViewController : UIViewController {
+    IBOutlet UIImageView *House;
+    IBOutlet UILabel *Kids;
+    IBOutlet UILabel *Money;
+    IBOutlet UILabel *Job;
+    IBOutlet UIButton *Predict;
+    IBOutlet UIButton *Reset;
+    IBOutlet UILabel *KidsKids;
+}
+-(IBAction)Predict:(id)sender;
+-(IBAction)Reset:(id)sender;
 
 @end
 
